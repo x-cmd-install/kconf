@@ -1,11 +1,13 @@
 about:
-  description: Manage multiple kubeconfigs easily
+  description:
+  |
+    Manage multiple kubeconfigs easily
   license: MIT
   homepage: 
   head: cf1a972
   archived: false
   latestVersion: v2.0.0
-  collectedAt: 2026-09-03T05:12:24Z
+  collectedAt: 2026-09-03T22:38:32Z
 timeline:
   created: 2020-01-14
   lastCommit: 2025-01-22
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 79990
   Makefile: 808
-totalLine: 80798
+totalBytes: 80798
 recent:
   last30d:
     since: 2026-08-04
