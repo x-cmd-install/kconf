@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0"
   latestRelease: "v2.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:36:10Z
+  collectedAt: 2026-09-10T22:14:05Z
 timeline:
   created: 2020-01-14
   lastCommit: 2025-01-22
@@ -84,7 +84,7 @@ total:
   commit: 85
 ---
 path: /home/runner/.x-repo/github.com/particledecay/kconf
-collectedAt: 2026-09-10T21:36:11Z
+collectedAt: 2026-09-10T22:14:07Z
 loc:
   Go:
     code: 2593
