@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 783,
       "digest": null,
-      "download_count": 530,
+      "download_count": 538,
       "created_at": "2023-11-17T13:12:47Z",
       "updated_at": "2023-11-17T13:12:47Z",
       "browser_download_url": "https://github.com/particledecay/kconf/releases/download/v2.0.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9982830,
       "digest": null,
-      "download_count": 134,
+      "download_count": 135,
       "created_at": "2023-11-17T05:07:43Z",
       "updated_at": "2023-11-17T05:07:44Z",
       "browser_download_url": "https://github.com/particledecay/kconf/releases/download/v2.0.0/kconf-darwin-arm64-2.0.0.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10048280,
       "digest": null,
-      "download_count": 1599,
+      "download_count": 1607,
       "created_at": "2023-11-17T05:07:43Z",
       "updated_at": "2023-11-17T05:07:44Z",
       "browser_download_url": "https://github.com/particledecay/kconf/releases/download/v2.0.0/kconf-linux-x86_64-2.0.0.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9109857,
       "digest": null,
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2023-11-17T05:07:42Z",
       "updated_at": "2023-11-17T05:07:42Z",
       "browser_download_url": "https://github.com/particledecay/kconf/releases/download/v2.0.0/kconf-windows-arm64-2.0.0.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10352782,
       "digest": null,
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2023-11-17T05:07:43Z",
       "updated_at": "2023-11-17T05:07:44Z",
       "browser_download_url": "https://github.com/particledecay/kconf/releases/download/v2.0.0/kconf-windows-x86_64-2.0.0.tar.gz"
